@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+header {
+    width: 980px;
+    height: 140px;
+    background-color: aqua;
+    color: aliceblue;
+}
+.center-content {
+    display: flex;
+    width: 980px;
+    gap: 15px;
+}
+.sidebar {
+    width: 20%;
+    height: 450px;
+    background-color: aqua;
+    color: aliceblue;
+}
+.content{
+    width: 79%;
+    height: 450px;
+    background-color: aqua;
+    color: aliceblue;
+}
+footer{
+    width: 980px;
+    height: 70px;
+    background-color: aqua;
+    color: aliceblue;
+}
